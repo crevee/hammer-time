@@ -13,4 +13,8 @@ After playing the game, I tried to make the game similar using p5.js to make it 
 2. To solve the problem of creating 'notes' suitable for a song, I look for ways to use AI models, create them using waveforms, or refer to 'tja' files or 'ous file format'. After seeing it, I will have to edit it using an appropriate method.
 
 ## Go to Result
-https://crevee.github.io/hammer-time/
+
+![result](https://github.com/crevee/hammer-time/assets/64821752/c6ca8a5a-1743-4f53-a834-0ff1b7d0f6f4)
+
+
+Clone Code Play Link : https://crevee.github.io/hammer-time/
