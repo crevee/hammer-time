@@ -9,7 +9,7 @@ Bits &amp; Bops game play link : https://store.steampowered.com/app/1929290/Bits
 **Before start, let you know it's not the official clone game of Bits &amp; Bops game!**   
 
 Let's nail it to the rhythm!   
-You can move the hammer through key input.   
+You can move the hammer through the spacebar input.   
 
 After playing the game, I tried to make the game similar using p5.js to make it playable on the web.
 
