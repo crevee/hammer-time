@@ -6,6 +6,8 @@ Bits &amp; Bops game play link : https://store.steampowered.com/app/1929290/Bits
 ## Clone it
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
 
+**Before start, let you know it's not the official clone game of Bits &amp; Bops game!**   
+
 Let's nail it to the rhythm!   
 You can move the hammer through key input.   
 
