@@ -6,6 +6,9 @@ Bits &amp; Bops game play link : https://store.steampowered.com/app/1929290/Bits
 ## Clone it
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
 
+Let's nail it to the rhythm!   
+You can move the hammer through key input.   
+
 After playing the game, I tried to make the game similar using p5.js to make it playable on the web.
 
 ## Problem
